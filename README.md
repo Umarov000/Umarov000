@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Umarov000
+### 👋 Hi, I’m Abdulbosit
 
 - 👀 I’m interested in Full Stack Development (JavaScript, React, Node.js, and more)
 - 🌱 I’m currently learning JavaScript deeply and exploring backend development with Node.js
